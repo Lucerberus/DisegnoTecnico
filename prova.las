@@ -1,0 +1,112 @@
+  0
+LAYERSTATEDICTIONARY
+  0
+LAYERSTATE
+  1
+prova
+ 91
+2047
+301
+prova
+290
+0
+302
+fine
+  8
+campitura
+ 90
+8
+ 62
+131
+370
+18
+  6
+Continuous
+  2
+Color_131
+440
+0
+  8
+terra
+ 90
+8
+ 62
+6
+370
+18
+  6
+Continuous
+  2
+Color_6
+440
+0
+  8
+assisimmetira
+ 90
+8
+ 62
+90
+370
+18
+  6
+ACAD_ISO04W100
+  2
+Color_90
+440
+0
+  8
+nascosti
+ 90
+8
+ 62
+10
+370
+18
+  6
+ACAD_ISO02W100
+  2
+Color_10
+440
+0
+  8
+fine
+ 90
+8
+ 62
+51
+370
+18
+  6
+Continuous
+  2
+Color_51
+440
+0
+  8
+grosso
+ 90
+8
+ 62
+5
+370
+35
+  6
+Continuous
+  2
+Color_5
+440
+0
+  8
+0
+ 90
+8
+ 62
+7
+370
+-3
+  6
+Continuous
+  2
+Color_7
+440
+0
